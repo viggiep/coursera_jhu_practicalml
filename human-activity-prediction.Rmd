@@ -1,7 +1,7 @@
 ---
 title: "Human Activity Prediction with R"
-author: "Benedict Neo"
-date: January 24, 2021
+author: "Vighnesh Pawar"
+date: September 26,2025
 output:
   html_document:
     toc: true
